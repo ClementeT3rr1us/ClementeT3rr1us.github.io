@@ -10,9 +10,9 @@
 }
 
 .perfil-column  .perfil-pic{
-    background-color: #fff;
+    /* background-color: #fff;
     border: 1px solid #03a9f4;
-    padding: 10px;
+    padding: 10px; */
 }
 
 .perfil-column  p{
@@ -35,4 +35,40 @@
 
 .perfil-column  p b{
     color: #03a9f4;
+}
+
+.work-expireince{
+    /* border: 1px solid red; */
+    height: fit-content;
+    padding: 2px;
+    min-height: 68px;
+}
+
+.company-logo{
+    float: left;
+    /* border: 1px solid green; */
+}
+
+.company-name{
+    /* float: right; */
+    /* border: 1px solid blue; */
+    color: #313131c7;
+}
+
+.company-icon{
+    width: 52px;
+    height: 52px;
+    border-radius: 100%;
+    border: 5px solid rgba(98, 98, 250, 0.192);
+}
+
+.skills img{
+    width: 32px;
+    height: 32px;
+    margin: 2px;
+}
+
+.skills .kt{
+    width: 92px;
+    height: 32px;
 }
